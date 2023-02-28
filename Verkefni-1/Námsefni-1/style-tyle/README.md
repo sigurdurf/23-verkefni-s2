@@ -6,7 +6,7 @@ Nýtt
 Inkscape Custom Palette
 https://manjitkarve.com/posts/inkscape-custom-palette/
 
-([Photoshop eða photopea henta vel til að sýna stílbragðið.])
+(Það má nota Photoshop eða Photopea til að sýna stílbragðið.)
 
 í Inkscape er [hægt að velja sömu leturgerðir](Hvernig%20á%20að%20setja%20Google%20leturgerð%20í%20tölvuna%20mína.pdf) og við getum notað á vefnum þannig að myndin af stílbragðinu kemur að góðum notum.
 
