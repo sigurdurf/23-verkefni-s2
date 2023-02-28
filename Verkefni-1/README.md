@@ -29,7 +29,7 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 
 * Upplýsingar um vöruna og/eða þjónustu
 * Söluhvati, leikur eða happadrætti
-* Vöruisti (tafla) 
+* Vörulisti (tafla) 
 * Skráning á sýninguna. (pöntunarform _aðeins útlit forms - engin virkni_)
 * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
 * Upplýsingar um fyrirtækið sem stendur að sýningunni
