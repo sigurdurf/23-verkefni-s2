@@ -42,15 +42,14 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 * Skráning á sýninguna. (pöntunarform _aðeins útlit forms - engin virkni_)
 * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
 * Upplýsingar um fyrirtækið sem stendur að sýningunni
-* Efnisyfirlit (_drop down menu_)
 
 
 ### Námsmat 12% af heildareinkunn
 
-* Hugmyndavinna 2%
+* Hugmyndavinna 3%
 * Efnisöflun og Textavinna 3%
 * Efnisyfirlit - _Site Map_ 2%
-* Tengirit - _Wireframe_     3%
+* Tengirit - _Wireframe_     2%
 * Stílbragð - _Style tyle_  2%
 
 ### Verkefnaskil
