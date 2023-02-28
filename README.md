@@ -33,9 +33,9 @@
    * Nemendur safna saman efni og myndum sem hægt er að nota í vefhönnunina. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir. 
    * Nemendur búa til efnisyfirlit vefs (_Site-map_) og Leiðakerfi (Wire-frame)
    * Nemendur ákveða litaþema og leturval vefs (_Style-tyle_)
-2. verkefni. Nemendur vinna að frumgerð vefs (_Prototype_) sem fylgt er eftir í vefuppsetningu í 3. verkefni.
-3. verkefni. Nemendur setja upp vef með eigin vinnuramma (_framework_) sem er með sveigjanlegu dálkaskipulagi.
-* Efnisyfirlit er sett í fellilista og spretti gluggi búinn til ofl. í 4. verkefni
-* Unnið er með SVG teikningar og leturtáknsafn búið til í 5. verkefni 
-* Í 6. verkefni er kvikun (_Animation_) bætt við til að lífga upp á vefinn
-* Forsíðan er "poppuð upp" með frjálsri aðferð (_landing page_) í 7.verkefni
+1. verkefni. Nemendur vinna að frumgerð vefs (_Prototype_) sem fylgt er eftir í vefuppsetningu í 3. verkefni.
+1. verkefni. Nemendur setja upp vef með eigin vinnuramma (_framework_) sem er með sveigjanlegu dálkaskipulagi.
+1. Efnisyfirlit er sett í fellilista og spretti gluggi búinn til ofl. í 4. verkefni
+1. Unnið er með SVG teikningar og leturtáknsafn búið til í 5. verkefni 
+1. Í 6. verkefni er kvikun (_Animation_) bætt við til að lífga upp á vefinn
+1. Forsíðan er "poppuð upp" með frjálsri aðferð (_landing page_) í 7.verkefni
