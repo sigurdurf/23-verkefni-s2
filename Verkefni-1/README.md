@@ -3,6 +3,7 @@
 ### Markmið:
 
 Nemendur eiga að geta undirbúið og skipulagt gerð kynningarvefs
+
 ---
 
 Í 1. verkefni er ákveðið hvaða efni/þema á að nota sem undirstaða undir verkefnin sem unnin eru í áfanganum. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir. Verkefni áfangans tengjast saman og afrakstur þeirra á að vera frambærilegur vefur sem hægt er að birta á internetinu. 
