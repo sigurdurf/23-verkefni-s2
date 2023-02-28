@@ -25,15 +25,6 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 * Finnið heimildir (texta og myndir) sem hægt er að nota
 * Vistið gögnin í vinnumöppu í verkefnageymslu ykkar
 
-### Tæknileg útfærlsa
-
-1. Skipurit - _"SiteMap"_
-   * [Búið til skipurit](Námsefni-1/Sitemap.md)
-1. Tengirit - _"WireFrame"_
-   * [Búið til leiðakerfi](Námsefni-1/wireframe/README.md)
-1. Stílbragð - _Style tyle_
-   * [Ákveðið letur- og litasamsetningu](Námsefni-1/style-tyle/README.md)
-
 ### Innihald vefsins
 
 * Upplýsingar um vöruna og/eða þjónustu
@@ -43,6 +34,14 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
 * Upplýsingar um fyrirtækið sem stendur að sýningunni
 
+### Tæknileg útfærlsa
+
+1. Skipurit - _"SiteMap"_
+   * [Búið til skipurit](Námsefni-1/Sitemap.md)
+1. Tengirit - _"WireFrame"_
+   * [Búið til leiðakerfi](Námsefni-1/wireframe/README.md)
+1. Stílbragð - _Style tyle_
+   * [Ákveðið letur- og litasamsetningu](Námsefni-1/style-tyle/README.md)
 
 ### Námsmat 12% af heildareinkunn
 
