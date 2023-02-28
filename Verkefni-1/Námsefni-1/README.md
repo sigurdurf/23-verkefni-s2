@@ -14,7 +14,7 @@
    * viðskipti (_Buy - Order_)
 1. Almennar upplýsingar (_About Us_)
 
-* Leiðakerfi (_Site map_)
-* Tengirammi (_Wireframe_)
+* [Leiðakerfi (_Site map_)]()
+* [Tengirammi (_Wireframe_)]()
 
 
