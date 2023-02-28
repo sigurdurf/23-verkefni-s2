@@ -15,7 +15,7 @@
 1. Almennar upplýsingar (_About Us_)
 
 * [Leiðakerfi (_Site map_)](Sitemap.md)
-
-* [Tengirammi (_Wireframe_)]()
+* [Tengirammi (_Wireframe_)](wireframe/)
+* [Stílbragð (_Style tyle_)](style-tyle/)
 
 
