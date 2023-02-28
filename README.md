@@ -11,20 +11,7 @@
 
 ## Námsáætlun
 
-#### 2023 vor, spönn 1. 
-
-| Vika  | Verkefni  | Nr. | Tímar | Vægi % |
-|---|---|---|---|---|
-| 1 - 2  | Undirbúningur og skipulag vefs  | 1  | 8 | 12 |
-| 3  | HTML & CSS vinnurammi (_framework_)  | 2 | 8  | 12 |
-| 4  | Vinnurammi, Töflur, form ofl. íhlutir | 3  | 8 | 12 |
-| 5  | Fellilistar og sprettigluggar <sub> _Lykilmatsþáttur_ </sub> | 4  | 8  | 20 |
-| 7  | SVG vigurteikningar (_Vector graphics_)| 5  | 8 | 12 |
-| 6  | CSS kvikun (Animation) | 6  | 8 | 12  |
-| 8  | Forsíða (landing page)  &nbsp; &nbsp; <sub> **_Lykilmatsþáttur_** </sub> | 7 | 8 | 20 |
-| 9  | <sub>**Síðasti  kennsludagur 1.mars**. <br> Námsmat 2, 3. mars og 6. Mars.</sub> |  |  | 100%  |
-
-#### 2023 vor, spönn 2. **Drög**
+#### 2023 vor, spönn 2. 
 
 | Vika  | Verkefni  | Nr. | Tímar | Vægi % |
 |---|---|---|---|---|
