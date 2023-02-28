@@ -15,7 +15,7 @@ Síðan búum við til síðu í _Inkscape_ sem sýnir uppbyggingu vefsins með 
 
 Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfum stærð þeirra með sömu breidd og algengar skjástærðir eru. Við stillum einingamál (_Units_) Inkscape í **Pixel**.
 
-![Inkscape document properties](document-properties.jpg)
+![Inkscape document properties](vinnugogn/document-properties.jpg)
 
 Hér er upptalning á stærðum sem hægt er að nota í Inkscape
 
