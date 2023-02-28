@@ -2,9 +2,6 @@
 
 Við höfum tengirammann (_Wireframe_) til hliðsjónar við að búa til frumgerð að lokaverkefni áfangans. Inkscape teikniforritið hentar vel til að búa til frumgerð að litlum vef. 
 
-UI Design in Inkscape (1)
-https://manjitkarve.com/posts/inkscape-design-1/
-
 #### Dæmi um frumgerð sem er unnin í Inkscape
 
 Síðan búum við til síðu í _Inkscape_ sem sýnir uppbyggingu vefsins með réttri litasamsetningu. Myndir er tómir rammar og textinn er "_dummy_" texti. Í þeirri vinnu getum við breytt og bætt hönnunina þannig að þegar frumgerðin er tilbúin þá er útlit og skipulag vefsins klárt í mismunandi skjástærðum. 
@@ -49,4 +46,6 @@ Með 16px grid er auðvelt að skilgreina stærðir.
 
 ![Grid 16px](vinnugogn/Skjámynd1280x800.jpg)
 
-[Bjargir]()
+#### Bjargir
+
+[UI Design in Inkscape](https://manjitkarve.com/posts/inkscape-design-1/)
