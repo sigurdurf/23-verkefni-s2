@@ -28,7 +28,7 @@
 
 ---
 
-* Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera frambærilegur vefur. 
+* Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera frambærilegur vefur sem hægt er að birta á internetinu. 
 1. verkefni. Efni vefs er ákveðið og hvaða þema á að nota sem undirstöðu undir vefin.
    * Nemendur safna saman efni og myndum sem hægt er að nota í vefhönnunina. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir. 
    * Nemendur búa til efnisyfirlit vefs (_Site-map_) og Leiðakerfi (Wire-frame)
