@@ -27,7 +27,7 @@
 
 Hér er dæmi um leiðarkerfi (_Navigation_) fyrir vef sem er með rit- og umsjónarkerfi (_CMS Content Management System_). Við erum ekki að fara hanna svona flókinn vef en við getum haft hann til fyrirmyndar fyrir vefinn okkar.
 
-![Leiðakerfi vefs](vinnugogn/SVG/site-map-2015.svg)
+![Leiðakerfi vefs](vinnugogn/site-map-2015.svg)
 
 <hr>
 
