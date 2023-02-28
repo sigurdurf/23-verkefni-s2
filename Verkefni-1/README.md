@@ -8,34 +8,49 @@ Nemendur eiga að geta undirbúið og skipulagt gerð kynningarvefs
 
 Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera frambærilegur vefur. 
 
-Í 1. verkefni er ákveðið hvaða efni/þema á að nota sem undirstaða undir verkefnin til að hægt sé að meta verkefnin. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir.
+Í 1. verkefni er ákveðið hvaða efni/þema á að nota sem undirstaða undir verkefnin sem unnin eru í áfanganum. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir.
 
-### Þema ????
+### Þema vörusýning 
 
-Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað. 
+* Vara og/eða þjónusta sem kynnt er á ákveðnum degi 
+  * Það þarf að skrá sig á sýninguna
+  * Það á að vera möguleiki á að panta vöru eða þjónustu
+  * Það er happadrætti, spurningaleikur eða einhver leikur sem viðskiptavinir geta tekið þátt í
+* Annað (_Þarf samþykki kennara_) 
 
-#### Það sem á að vera á vefnum:
+ 
 
-* Upplýsingar um ferðir fyrirtækisins
-* Listi yfir ferðirnar (tafla)
-* Skráning í ferðirnar. (pöntunarform _aðeins útlit forms - engin virkni_)
+Kynningarvefurinn getur fjallað um 
+Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað.
+
+### Efnisöflun og hugmyndavinna
+
+* Skrifið niður allar hugmyndir sem koma til greina
+* Veljið síðan eina hugmynd til að halda áfram með 
+* Finnið heimildir (texta og myndir) sem hægt er að nota
+* Vistið gögnin í vinnumöppu í verkefnageymslu ykkar
+
+### Tæknileg útfærlsa
+
+1. Skipurit - _"SiteMap"_
+   * [Búið til skipurit](Námsefni-1/Sitemap.md)
+1. Tengirit - _"WireFrame"_
+   * [Búið til leiðakerfi](Námsefni-1/wireframe/README.md)
+1. Stílbragð - _Style tyle_
+   * [Ákveðið letur- og litasamsetningu](Námsefni-1/style-tyle/README.md)
+
+### Innihald vefsins
+
+* Upplýsingar um vöruna og/eða þjónustu
+* Söluhvati, leikur eða happadrætti
+* Vöruisti (tafla) 
+* Skráning á sýninguna. (pöntunarform _aðeins útlit forms - engin virkni_)
 * Samskiptaform - spjallrás (pop up rammi _aðeins útlit forms - engin virkni_)
-* Upplýsingar um fyrirtækið
+* Upplýsingar um fyrirtækið sem stendur að sýningunni
 * Efnisyfirlit (_drop down menu_)
 
-#### Verkáætlun
 
-1. Efnisöflun og hugmyndavinna
-   * Skrifið niður allar hugmyndir sem koma til greina
-2. Skipurit - _"SiteMap"_
-   * [Búið til skipurit](Námsefni-1/Sitemap.md)
-3. Tengirit - _"WireFrame"_
-   * [Búið til leiðakerfi](Námsefni-1/wireframe/README.md)
-4. Stílbragð - _Style tyle_
-   * [Útlitshönnun](Námsefni-1/style-tyle/README.md)
-
-
-#### Námsmat 12% af heildareinkunn
+### Námsmat 12% af heildareinkunn
 
 * Hugmyndavinna 2%
 * Efnisöflun og Textavinna 3%
@@ -43,10 +58,10 @@ Fyrirtækið má vera starfandi á markaði en það getur líka verið skálda�
 * Tengirit - _Wireframe_     3%
 * Stílbragð - _Style tyle_  2%
 
-#### Verkefnaskil
+### Verkefnaskil
 
 - Öllum undirbúningsgögnum er skilað í eigin **"Privat"** verkefnageymslu á github. 
 - Kennari þarf að fá aðgang að verkefnageymslunni (_Settings -> Collaborators -> Invite members_)
 - Tengill á verkefnageymsluna er skilað í Innu
 
-#### Einkunn verður birt í Innu
+#### _Einkunn verður birt í Innu_
