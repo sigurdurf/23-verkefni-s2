@@ -16,10 +16,7 @@ Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera fram
   * Það er happadrætti, spurningaleikur eða einhver leikur sem viðskiptavinir geta tekið þátt í
 * Annað (_Þarf samþykki kennara_) 
 
- 
-
-Kynningarvefurinn getur fjallað um 
-Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað.
+Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem fyrirtækið þitt býður upp á. Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað. 
 
 ### Efnisöflun og hugmyndavinna
 
