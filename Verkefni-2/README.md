@@ -9,7 +9,7 @@ https://manjitkarve.com/posts/inkscape-design-1/
 
 Síðan búum við til síðu í _Inkscape_ sem sýnir uppbyggingu vefsins með réttri litasamsetningu. Myndir er tómir rammar og textinn er "_dummy_" texti. Í þeirri vinnu getum við breytt og bætt hönnunina þannig að þegar frumgerðin er tilbúin þá er útlit og skipulag vefsins klárt í mismunandi skjástærðum. 
 
-![1280](prototype1280x3200-OUT.svg)
+![1280](vinnugogn/prototype1280x3200-OUT.svg)
 
 ### Inkscape stillingar
 
@@ -43,10 +43,10 @@ Hæð skjalsin ræðst af innihaldi vefsins þannig að 3200px er bara tala sem 
 
 Til að auðvelda endanlega hönnun er skynsamlegt að nota sömu grunn eininguna 16px (1em) og er notuð í vefsíðugerð. Í Inkscape stillum við Grid eins og sýnt er hér á mynd.
 
-![Grid 16px](grids-16px.jpg)
+![Grid 16px](vinnugogn/grids-16px.jpg)
 
 Með 16px grid er auðvelt að skilgreina stærðir.
 
-![Grid 16px](Skjámynd1280x800.jpg)
+![Grid 16px](vinnugogn/Skjámynd1280x800.jpg)
 
-[Bjargir](https://github.com/vefhonnun/21V/wiki/Bjargir#skipulagning-og-h%C3%B6nnun)
+[Bjargir]()
