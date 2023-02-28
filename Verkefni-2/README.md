@@ -14,6 +14,18 @@ Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfu
 
 ![Inkscape document properties](vinnugogn/document-properties.jpg)
 
+Hæð skjalsin ræðst af innihaldi vefsins þannig að 3200px er bara tala sem gengur upp í 16.
+
+## Grid - 16px = 1em
+
+Til að auðvelda endanlega hönnun er skynsamlegt að nota sömu grunn eininguna 16px (1em) og er notuð í vefsíðugerð. Í Inkscape stillum við Grid eins og sýnt er hér á mynd.
+
+![Grid 16px](vinnugogn/grids-16px.jpg)
+
+Með 16px grid er auðvelt að skilgreina stærðir.
+
+![Grid 16px](vinnugogn/Skjámynd1280x800.jpg)
+
 Hér er upptalning á stærðum sem hægt er að nota í Inkscape
 
 1. Farsímar - lóðrétt staða (_Portrait_)
@@ -33,18 +45,6 @@ Hér er upptalning á stærðum sem hægt er að nota í Inkscape
 
 6. Fartölvur og borðtölvur
    * 1600 x 3200 (skjástærð 1600 - 1050) 
-
-Hæð skjalsin ræðst af innihaldi vefsins þannig að 3200px er bara tala sem gengur upp í 16.
-
-## Grid - 16px = 1em
-
-Til að auðvelda endanlega hönnun er skynsamlegt að nota sömu grunn eininguna 16px (1em) og er notuð í vefsíðugerð. Í Inkscape stillum við Grid eins og sýnt er hér á mynd.
-
-![Grid 16px](vinnugogn/grids-16px.jpg)
-
-Með 16px grid er auðvelt að skilgreina stærðir.
-
-![Grid 16px](vinnugogn/Skjámynd1280x800.jpg)
 
 #### Bjargir
 
