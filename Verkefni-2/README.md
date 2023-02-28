@@ -48,4 +48,6 @@ Með 16px grid er auðvelt að skilgreina stærðir.
 
 #### Bjargir
 
-[UI Design in Inkscape](https://manjitkarve.com/posts/inkscape-design-1/)
+* [UI Design in Inkscape](https://manjitkarve.com/posts/inkscape-design-1/)
+
+> [I am a Rock vefsíða](https://vefhonnun.github.io/synidaemi/iamarock/)
