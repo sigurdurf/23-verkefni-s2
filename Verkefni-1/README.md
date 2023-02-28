@@ -61,4 +61,4 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 
 #### _Einkunn verður birt í Innu_
 
->* _Efnisval má ekki vera ólöglegt samkvæmt íslenskum lögum._
+>* _Umfjöllunarefni má ekki vera ólöglegt samkvæmt íslenskum lögum._
