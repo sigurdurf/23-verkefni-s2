@@ -14,7 +14,7 @@ Verkefni áfangans eiga að tengjast saman og afrakstur þeirra á að vera fram
   * Það þarf að skrá sig á sýninguna
   * Það á að vera möguleiki á að panta vöru eða þjónustu
   * Það er happadrætti, spurningaleikur eða einhver leikur sem viðskiptavinir geta tekið þátt í
-* Annað val (_Þarf samþykki kennara_<sup>*</sup>) 
+* Annað val _Þarf samþykki kennara_<sup>*</sup> 
 
 Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem fyrirtækið þitt býður upp á. Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað. 
 
@@ -61,4 +61,4 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 
 #### _Einkunn verður birt í Innu_
 
->* Efnisval má ekki vera ólöglegt samkvæmt íslenskum lögum.
+>* _Efnisval má ekki vera ólöglegt samkvæmt íslenskum lögum._
