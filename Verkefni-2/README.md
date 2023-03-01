@@ -44,6 +44,6 @@ Hæð skjalsins er lengri en skjástærðirnar enda gerum við ráð fyrir að n
 
 #### Bjargir
 
-* [UI Design in Inkscape](https://manjitkarve.com/posts/inkscape-design-1/)
+* [UI Design in Inkscape](https://manjitkarve.com/posts/category/inkscape/inkscape-tutorials/)
 
 > [I am a Rock vefsíða](https://vefhonnun.github.io/synidaemi/iamarock/)
