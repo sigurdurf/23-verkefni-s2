@@ -16,9 +16,9 @@ Inkscape skjölin eru sett upp í mismunandi stærðum og stærð þeirra er me�
 
 Hæð skjalsin ræðst af innihaldi vefsins þannig að 3200px er bara tala sem gengur upp í 16.
 
-## Grid - 16px = 1em
+Til að auðvelda endanlega hönnun er skynsamlegt að nota sömu grunn eininguna 16px (1em) og er notuð í vefsíðugerð. Í Inkscape stillum við **Grids** eins og sýnt er hér á mynd.
 
-Til að auðvelda endanlega hönnun er skynsamlegt að nota sömu grunn eininguna 16px (1em) og er notuð í vefsíðugerð. Í Inkscape stillum við Grid eins og sýnt er hér á mynd.
+## Grid - 16px = 1em
 
 ![Grid 16px](vinnugogn/grids-16px.jpg)
 
