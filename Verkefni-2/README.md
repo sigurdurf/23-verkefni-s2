@@ -1,16 +1,16 @@
 # Frumgerð í Inkscape (_Prototype_)
 
-Við höfum tengirammann (_Wireframe_) til hliðsjónar við að búa til frumgerð að lokaverkefni áfangans. Inkscape teikniforritið hentar vel til að búa til frumgerð að litlum vef. 
+Við höfum tengiritið (_Wireframe_) til hliðsjónar við að búa til frumgerð að vefnum okkar. Inkscape teikniforritið hentar vel til þess. 
 
-#### Dæmi um frumgerð sem er unnin í Inkscape
+Við búum til síður í _Inkscape_ sem sýna uppbyggingu vefsins með réttri litasamsetningu. Myndir er tómir rammar og textinn er "_dummy_" texti. Þegar frumgerðin er tilbúin þá er skipulag og útlitshönnun vefsins klár í mismunandi skjástærðum. 
 
-Síðan búum við til síðu í _Inkscape_ sem sýnir uppbyggingu vefsins með réttri litasamsetningu. Myndir er tómir rammar og textinn er "_dummy_" texti. Í þeirri vinnu getum við breytt og bætt hönnunina þannig að þegar frumgerðin er tilbúin þá er útlit og skipulag vefsins klárt í mismunandi skjástærðum. 
+#### Dæmi um frumgerð sem er unnin í Inkscape (80em - 1280px)
 
 ![1280](vinnugogn/prototype1280x3200-OUT.svg)
 
 ### Inkscape stillingar
 
-Við búum til Inkscape skjöl sem eru sett upp í mismunandi stærðum og höfum stærð þeirra með sömu breidd og algengar skjástærðir eru. Við stillum einingamál (_Units_) Inkscape í **Pixel**.
+Inkscape skjölin eru sett upp í mismunandi stærðum og stærð þeirra er með sömu breidd og algengar skjástærðir. Við stillum einingamál (_Units_) Inkscape í **Pixel**.
 
 ![Inkscape document properties](vinnugogn/document-properties.jpg)
 
