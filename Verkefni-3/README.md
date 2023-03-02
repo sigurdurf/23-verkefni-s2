@@ -19,7 +19,6 @@ Meðfylgjandi verkefninu er HTML og CSS grunnsíður sem þú getur notað til a
   * 4% CSS breytur - Litasamsetning
   * 2% Leturval - leturnotkun	
 
-#### Innihald vefsíðunnar, texti og myndir er samkvæmt vali þínu í 1. verkefni. Innihaldið þarf ekki að vera 100% tilbúið fyrr en farið er yfir verkefnið í 1. lykilmatsþættinum.
-
+#### Innihald vefsíðunnar, texti og myndir er samkvæmt vali þínu í 1. verkefni. 
 
 #### Einkunn verður birt í Innu

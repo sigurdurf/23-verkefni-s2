@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 | 10 - 11  | Undirbúningur og skipulag vefs (_Site map & Wireframe_)  | 1  | 8 | 12 |
 | 11 - 12 |  Frumgerð vefs (_Prototype_) | 2 | 8  | 12 |
-| 12 - 13 | HTML & CSS vinnurammi (_framework_) | 3  | 10 | 12 |
+| 12 - 13 | HTML & CSS vinnurammi (_framework_) | 3  | 8 | 12 |
 | 14 | Páskafrí |    |   |   | 
 | 15  | Fellilistar og sprettigluggar | 4  | 4  |  |
 | 16  | Fellilistar og sprettigluggar   <sub> **_Lykilmatsþáttur_** </sub>  | 4  | 4  | 20 |
