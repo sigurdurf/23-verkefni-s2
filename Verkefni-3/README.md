@@ -25,6 +25,6 @@ Gerið ráð fyrir samkiptaformi og innskráningarformi. Tafla er ekki skilyrði
   * 2% Leturval - leturnotkun	
   * 2% Samskiptaform 
 
-#### Innihald vefsíðunnar, texti og myndir er samkvæmt vali þínu í 1. verkefni. 
+#### Innihald vefsíðunnar, texti og myndir er samkvæmt þínu skipulagi og frumhönnun. 
 
 #### Einkunn verður birt í Innu
