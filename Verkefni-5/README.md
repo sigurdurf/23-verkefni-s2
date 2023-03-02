@@ -31,4 +31,4 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
   *  Eigið SVG merki (logo) sett í Header/Footer
 * 6% Táknletur
   *  SVG leturtákn í efnisyfirliti 
-  *  SVG leturtákn í Footer, félagsmiðlatenglum 
+  *  SVG leturtákn í félagsmiðlatenglum (td. _footer_) 
