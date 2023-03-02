@@ -24,9 +24,11 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 
 # Tafla  &lt;Table> 
 
-Bættu töflu inn í vefsíðuna, innhald töflunar á að vera dagskrá af einhverju tagi. Til að byrja með má notast við _dummy_ texta en innihald töflunnar á að vera klárt þegar farið er yfir verkefnið í yfirferð verkefna (_Lykilmatsþáttur - 4. verkefni_). 
+Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
 
-Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skjáinn.  
+Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða. 
+
+Innhald töflu getur verið dagskrá af einhverju tagi. Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skjáinn.  
 
 #### Mynd 1. Viðmið 48em + (760px ~ og stærri skjáir).
 
@@ -35,14 +37,11 @@ Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skj�
 #### Mynd 2. Viðmið 0 – 48 em (0 – 760px) Það á ekki að þurfa að hliðra til skjánum þegar taflan er skoðuð í farsímum.
 
 ![Mynd 2.](images/mynd-2.jpg)
+ 
 
-Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
-
-Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytast ekki. Vafrinn getur geymt slíkar upplýsingar í vinnsluminni sínu og þarf ekki að sækja þessi gögn í sífellu. "Table" tagið er erfitt að eiga við þegar kemur að sveigjanleika vefsíðu og best að nota það ekki nema þegar um gagnvirkar færslur er að ræða.  
-
-* Taflan inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
-* otaðu thead, tbody og tfooter tögin í töflukóðanum. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
-* Taflan er svegjanleg (responsive) og skiptist þannig að hún er öll sýnileg
+* Tafla inniheldur upplýsingar sem eru skiljanlegar og skilmerkilega settar upp.
+* Notaðu thead, tbody og tfooter tögin í töflukóðanum. Í stílsíðu er hægt að nota gerviklasa (Pseudo class - nth-child) til að fá litskiptingu í bakgrunn töflunnar. 
+* Taflan á að vera svegjanleg (responsive) og skiptist þannig að hún er öll sýnileg
 á litlum skjáum.
 * [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/)
 
