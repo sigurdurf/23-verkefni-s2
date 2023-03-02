@@ -10,8 +10,9 @@ Meðfylgjandi verkefninu er HTML og CSS grunnsíður sem þú getur notað til a
 Gerið ráð fyrir samkiptaformi og innskráningarformi. Tafla er ekki skilyrði en ef þið hafið töflu þá þarf hún að vera sveigjanleg sbr. verkefni 7 í VEFÞ1VG.
 
 * [Grunnsíður - Boilerplate](Námsefni-3/)
+* [Sýnidæmi Grunnsíða](https://vefhonnun.github.io/synidaemi/verkefni-2/)
 * [Form og tafla](Námsefni-3/tafla-form.md)
-* [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/)
+* [Sýnidæmi Form og tafla](https://vefhonnun.github.io/synidaemi/verkefni-3/)
 
 ### Námsmat:  12% af heildareinkunn
 
