@@ -13,7 +13,7 @@ Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera þa�
 
 _Veljið tákn sem passa við ykkar efnisyfirlit_
 
-* [Sýnidæmi]().  
+* [Sýnidæmi](https://vefhonnun.github.io/sea-sport-travel/).  
 
 ### SVG Bjargir
 
