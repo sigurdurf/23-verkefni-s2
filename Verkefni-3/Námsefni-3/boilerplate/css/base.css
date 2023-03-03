@@ -51,9 +51,9 @@
   /* buttons */
   --button: rgb(100,100,100);
   --button-active:var(--a-active);
+  --button-prime: rgb(255, 255, 255);
   --button-prime-bg: rgb(14, 97, 116);
   --button-prime-bg-hover: rgb(30, 174, 219);
-  --button-prime-color: rgb(255, 255, 255);
 
 }
 
@@ -170,7 +170,7 @@ button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
-  color: var(--button);
+  color: var(--button-prime);
   background-color: var(--button-prime-bg);
   border-color: var(--button-prime-bg); }
 
