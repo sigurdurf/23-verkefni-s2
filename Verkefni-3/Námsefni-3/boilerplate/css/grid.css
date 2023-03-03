@@ -1,0 +1,73 @@
+.rammi div{
+    border: 1px dashed grey;
+}
+
+.col-12,
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6 {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1em;
+}
+/* 37.5em */
+
+@media screen and (min-width:37.5em){
+
+    .col-4,
+    .col-6 {
+        grid-template-columns: 1fr 1fr;
+    }
+
+}
+/* 48em */
+@media screen and (min-width:48em){
+
+    .col-2 {
+        grid-template-columns: 1fr 1fr;
+    }
+    .col-3,
+    .col-5,
+    .col-6 {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .col-12,
+    .col-2,
+    .col-3,
+    .col-4,
+    .col-5,
+    .col-6 {
+        gap: 2em;
+        row-gap: 0;
+    }
+}
+/* 60em */
+@media screen and (min-width:60em){
+    .col-12 {
+        grid-template-columns: 1fr 2fr;
+    }
+    .col-4 {
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .col-5 {
+        grid-template-columns: repeat(5, 1fr);
+    }
+    .col-6 { 
+        grid-template-columns: repeat(6, 1fr);
+    }
+    
+    .container {
+        max-width: 60em;
+        margin: 0 auto;
+    }
+}
+/* 80em = 1280px */
+@media screen and (min-width:80em){
+    .container {
+        max-width: 80em;
+        margin: 0 auto;
+    }
+}

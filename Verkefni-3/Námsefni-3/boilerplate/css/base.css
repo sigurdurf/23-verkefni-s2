@@ -2,6 +2,7 @@
 
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
+  - Variables
   - Smooth Scroll
   - Base Styles 
   - Typography 
@@ -12,39 +13,112 @@
   - Code
   - Tables
   - Images
-  - Media Queries
-*/
+  - Blockquotes
+  - nav
+  - footer
+  - Media Queries */
+
+/* Variables
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+:root {
+  --body-font-family:'Roboto Slab', sans-serif;
+  --body-color-text: rgb(0, 25, 24);
+  --body-bg-color: rgb(226, 248, 247);
+  --body-padding: 0;
+  --body-margin:0;
+  --body-font-size: 1.1em;
+  --body-line-height:1.6;
+  --body-font-weight:400;
+  /* header */
+  --header-bg: rgb(0, 121, 135);
+  --header-color: rgb(255, 255, 255);
+  /* text */
+  --h1-color: rgb(0, 91, 101);
+  --h2-color: rgb(0, 91, 101);
+  --h3-color: rgb(0, 91, 101);
+  --h4-color: rgb(0, 50, 56);
+  --a-color: rgb(6, 89, 102);
+  /* navigation */
+  --nav-bg: rgb(0, 121, 135);
+  --nav-color: rgb(255, 255, 255);
+  --nav-bgcolor-hover: rgb(3, 173, 192);
+  /* links */
+  --a-visited:rgb(13, 172, 196);
+  --a-active:rgb(13, 172, 196);
+  /* footer */
+  --footer-bg: rgb(3, 173, 192);
+  --footer-color: rgb(0, 50, 56);
+  /* buttons */
+  --button: rgb(100,100,100);
+  --button-active:var(--a-active);
+  --button-prime-bg: rgb(14, 97, 116);
+  --button-prime-bg-hover: rgb(30, 174, 219);
+  --button-prime-color: rgb(255, 255, 255);
+
+}
+
+/* Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+* {
+  box-sizing: border-box;
+}
 
 html {
   scroll-behavior: smooth;
 }
 
-/* Base Styles
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
 body {
-  margin: 0;
-  font-size: 1em;
-  line-height: 1.6;
-  font-weight: 400;
-  font-family: 'Roboto Slab', serif;
-  color: #222; 
+  margin: var(--body-margin);
+  padding: var(--body-padding);
+  font-size: var(--body-font-size);
+  line-height: var(--body-line-height);
+  font-weight: var(--body-font-weight);
+  font-family: var(--body-font-family);
+  color: var(--body-color-text); 
+  background-color: var(--body-bg-color);
 }
-  
+
+header,
+main,
+footer {
+  padding: 0 1em;
+}
+
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3 {
   font-weight: 300; 
   margin: .5em 0;
-
+  color: var(--h1-color);
 }
 h4, h5, h6 {
   font-weight: 700; 
+  color: var(--h4-color);
 }
-h1 { font-size: 2.0em; line-height: 1.6;  }
-h2 { font-size: 1.6em; line-height: 1.6; }
-h3 { font-size: 1.3em; line-height: 1.6;  }
+h1 { font-size: 2.5em; line-height: 1;  
+}
+h2 { font-size: 1.6em; line-height: 1.6; 
+}
+h3 { font-size: 1.3em; line-height: 1.6;  
+}
 
-.centre {
+
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+a {
+  color: var(--a-color) 
+}
+a:visited {
+  color: var(--a-visited)
+}
+a:hover,
+a:active {
+  color:var(--a-active)
+} 
+
+/* Text align */
+
+.center {
   text-align: center;
 }
 .right {
@@ -53,14 +127,6 @@ h3 { font-size: 1.3em; line-height: 1.6;  }
 .justify {
   text-align: justify;
 }
-/* Links
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-a {
-  color: #06664e; }
-a:hover,
-a:visited {
-  color: #0FA0CE; }
-
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button,
@@ -71,7 +137,7 @@ input[type="button"] {
   display: inline-block;
   height: 2.3em;
   padding: 2px 30px;
-  color: #555;
+  color: var(--button);
   text-align: center;
   font-size: .8em;
   font-weight: 600;
@@ -83,8 +149,7 @@ input[type="button"] {
   background-color: transparent;
   border-radius: 4px;
   border: 1px solid #bbb;
-  cursor: pointer;
-  box-sizing: border-box; }
+  cursor: pointer; }
 
 .button:hover,
 button:hover,
@@ -96,7 +161,7 @@ button:focus,
 input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
-  color: #333;
+  color: var(--button-active);
   border-color: #888;
   outline: 0; }
 
@@ -105,9 +170,9 @@ button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
-  color: #FFF;
-  background-color: #06664e;
-  border-color: #06664e; }
+  color: var(--button);
+  background-color: var(--button-prime-bg);
+  border-color: var(--button-prime-bg); }
 
 .button.button-primary:hover,
 button.button-primary:hover,
@@ -119,9 +184,9 @@ button.button-primary:focus,
 input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
-  color: #FFF;
-  background-color: #1EAEDB;
-  border-color: #1EAEDB; }
+  color: var(--button);
+  background-color: var(--button-prime-bg-hover);
+  border-color: var(--button-prime-bg-hover); }
 
 
 /* Forms
@@ -132,16 +197,16 @@ input[type="search"],
 input[type="text"],
 input[type="tel"],
 input[type="url"],
+input[type="date"],
 input[type="password"],
 textarea,
 select {
-  height: 38px;
-  padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
+  height: 2.4em;
+  padding: .4em .8em; /* The 6px vertically centers text on FF, ignored by Webkit */
   background-color: #fff;
   border: 1px solid #D1D1D1;
   border-radius: 4px;
-  box-shadow: none;
-  box-sizing: border-box; }
+  box-shadow: inset 2px 3px 5px rgb(192, 192, 192);}
 
 /* Removes awkward default styles on some inputs for iOS */
 input[type="email"],
@@ -152,15 +217,14 @@ input[type="tel"],
 input[type="url"],
 input[type="password"],
 textarea {
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none; }
-
+      appearance: none; }
 
 textarea {
-  min-height: 65px;
+  min-height: 5em;
   padding-top: 6px;
-  padding-bottom: 6px; }
+  padding-bottom: 6px; 
+}
+
 input[type="email"]:focus,
 input[type="number"]:focus,
 input[type="search"]:focus,
@@ -170,12 +234,14 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-  border: 1px solid #007ca1;
+  border: 2px solid var(--a-active);
   outline: 0; }
 
-label,
+/*label,*/
 legend {
-  margin-bottom: .5em; }
+  display: block;
+  margin-bottom: .5em;
+  font-weight: 600; }
 
 fieldset {
   padding: 0;
@@ -183,7 +249,8 @@ fieldset {
 
 input[type="checkbox"],
 input[type="radio"] {
-  display: inline; }
+  display: inline; 
+}
 
 label > .label-body {
   display: inline-block;
@@ -206,12 +273,13 @@ ol ol,
 ol ul {
   margin: 1em 0 1em 3em;
 }
-li {
-  margin-bottom: 1em; }
+/*li {
+  margin-bottom: .5em; }*/
 
 
 /* Code
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 code {
   padding: .2em .5em;
   margin: 0 .2em;
@@ -233,16 +301,29 @@ table {
 }
 th,
 td {
-  padding: 12px 15px;
+  padding: .8em;
   text-align: left;
   border-bottom: 1px solid #c4c3c3; }
+
+tbody tr:nth-child(odd) {
+    background-color: #d4fdfd;
+  }
+caption {
+  font-size: 1.2em;
+  color: var(--nav-color);
+  background-color: var(--footer-bg);
+}
+tfoot {
+  background-color: #d4fdfd;
+}
+/* 
 th:first-child,
 td:first-child {
   padding-left: 0; }
 th:last-child,
 td:last-child {
   padding-right: 0; }
-
+*/
 
 /* Images
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -253,24 +334,57 @@ img {
 figure {
   margin: 0;
 }
+/* nav
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+nav {
+  background-color: var(--nav-bg);
+  color: var(--nav-color);
+}
+/* Footer
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+footer {
+  padding: 2em 0;
+}
+footer,
+.footermenu nav{
+  background-color: var(--footer-bg);
+}
+.footermenu ul {
+  list-style-type: none;
+  padding: 0 2em;
+}
+.footermenu li {
+  line-height: 1.5;
+  border: 1px solid var(--footer-color);
+  border-width: 0 0 1px 0;
+}
+.footermenu a {
+  display: block;
+  color:var(--nav-color);
+  text-decoration: none;
+
+}
+
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 /* Larger than mobile 
 @media screen and (min-width: 30em) {}
 */
+
 /* Larger than phablet (also point when grid becomes active) 
 @media screen and (min-width: 37.5em) {}
 */
+
 /* Larger than tablet */
 @media screen and (min-width: 48em) {
   h1 { 
-    font-size: 3.0em; 
+    font-size: 2.5em; 
     line-height: 1.6;
     margin: 0.5em 0;  
   }
   h2 { 
-    font-size: 2em; 
+    font-size: 1.8em; 
     line-height: 1.6; 
     margin-bottom: 0.5em;  
   }
@@ -283,6 +397,7 @@ figure {
 /* Larger than desktop 
 @media screen and (min-width: 60em) {}
 */
+
 /* Larger than Desktop HD 
 @media screen and (min-width: 100em) {}
 */
