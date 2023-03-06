@@ -30,17 +30,29 @@ Til að hanna svegjanlegan vef þá þarf að gera ráð fyrir mismunandi skipul
 
 1. Farsímar  (_Portrait_)
    * 360 x 3200 (skjástærð 360 x 640 - Galaxy S5) 
-
 1. Spjaldtölvur  (_Portrait_)
    * 760 x 3200 (skjástærð 760 - 1024 - iPad) 
-
 1. Fartölvur 
    * 1024 x 3200 (skjástærð 1024 - 760 iPad) 
-
 1. Fartölvur og borðtölvur
-   * 1600 x 3200 (skjástærð 1600 - 1050) 
+   * 1600 x 3200 (skjástærð 1600 +) 
 
 Hæð skjalsins er lengri en skjástærðirnar enda gerum við ráð fyrir að notendur skruni niður vefsíðuna.
+
+### Námsmat 12%
+
+1. **Frumgerð - Prototype 30em**
+   * Forsíða
+   * Undirsíða (samskiptaform - tafla)
+1. **Frumgerð - Prototype 48em** 
+   * Forsíða
+   * Undirsíða (samskiptaform - tafla)
+1. **Frumgerð - Prototype 60em** 
+   * Forsíða
+   * Undirsíða (samskiptaform - tafla)
+1. **Frumgerð - Prototype 100em** 
+   * Forsíða
+   * Undirsíða (samskiptaform - tafla)
 
 #### Bjargir
 
