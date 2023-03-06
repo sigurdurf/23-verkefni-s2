@@ -18,12 +18,12 @@ Gerið ráð fyrir samkiptaformi og innskráningarformi. Tafla er ekki skilyrði
 ### Námsmat:  12% af heildareinkunn
 
 * Skipulag – Layout			6%	
-  * 4% Dálkaskipulag - Grid 
+  * 2% Dálkaskipulag - Grid 
   *	2% Myndir aðlagast skjástærðum
+  *	2% Samskiptaform og tafla 
 * Útlit					6%
-  * 2% CSS breytur - Litasamsetning
+  * 4% CSS breytur - Litasamsetning
   * 2% Leturval - leturnotkun	
-  * 2% Samskiptaform 
 
 #### Innihald vefsíðunnar, texti og myndir er samkvæmt þínu skipulagi og frumhönnun. 
 
