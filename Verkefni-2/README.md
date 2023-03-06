@@ -4,7 +4,7 @@ Við höfum tengiritið (_Wireframe_) til hliðsjónar við að búa til frumger
 
 Við búum til síður í _Inkscape_ sem sýna uppbyggingu vefsins með réttri litasamsetningu. Myndir er tómir rammar og textinn er "_dummy_" texti. Þegar frumgerðin er tilbúin þá er skipulag og útlitshönnun vefsins klár í mismunandi skjástærðum. 
 
-#### Dæmi um frumgerð sem er unnin í Inkscape (80em - 1280px)
+#### Dæmi um frumgerð sem er unnin í Inkscape (48em - 780px)
 
 ![1280](vinnugogn/prototype1280x3200-OUT.svg)
 
