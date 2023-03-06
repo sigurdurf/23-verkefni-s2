@@ -8,23 +8,9 @@
 6. [Verkefni](Verkefni-6/)
 7. [Verkefni](Verkefni-7/)
 
+---
 
-## Námsáætlun
-
-#### 2023 vor, spönn 2. 
-
-| Vika  | Verkefni  | Nr. | Tímar | Vægi % |
-|---|---|---|---|---|
-| 10 - 11  | Undirbúningur og skipulag vefs (_Site map & Wireframe_)  | 1  | 8 | 12 |
-| 11 - 12 |  Frumgerð vefs (_Prototype_) | 2 | 8  | 12 |
-| 12 - 13 | HTML & CSS vinnurammi (_framework_) | 3  | 8 | 12 |
-| 14 | Páskafrí |    |   |   | 
-| 15  | Fellilistar og sprettigluggar | 4  | 4  |  |
-| 16  | Fellilistar og sprettigluggar   <sub> **_Lykilmatsþáttur_** </sub>  | 4  | 4  | 20 |
-| 17  | SVG vigurteikningar (_Vector graphics_)| 5 | 8 | 12 |
-| 18  | CSS kvikun (_Animation_) | 6  | 8 | 12  |
-| 19  | Forsíða (_Landing page_)  &nbsp; &nbsp; <sub> **_Lykilmatsþáttur_** </sub> | 7 | 8 | 20 |
-|   | <sub>Námsmatsdagar 29. mars og 21. apríl <br>**Síðasti  kennsludagur 12. maí**.</sub> |  |  | 100%  |
+### [Námsáætlun 2023 vor, spönn 2.](VEFÞ2VH05AU_V23-2.pdf)
 
 ---
 
