@@ -11,7 +11,7 @@ Sundurliðun verkþátta er nauðsynleg í allri vinnu til að fá yfirsýn og a
 - [ ] Skrifa texta
 - [ ] Finna myndir - Myndvinnsla
 - [ ] Skipurit (_site-map_)
-- [ ] Skissuvinna (_wire-frame_)
+- [ ] Leiðakerfi (_wire-frame_)
 
 ## Skipurit - _Sitemap_
 
