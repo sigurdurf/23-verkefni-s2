@@ -9,11 +9,13 @@ Sundurliðun verkþátta er nauðsynleg í allri vinnu til að fá yfirsýn og a
 
 - [x] Finna efni til að vinna með
 - [ ] Skrifa texta
-- [ ] Myndvinnsla
+- [ ] Finna myndir - Myndvinnsla
 - [ ] Skipurit (_site-map_)
 - [ ] Skissuvinna (_wire-frame_)
+
+Verkefni 2
 - [ ] Skipulag (_layout_), litir og leturgerð (_prototype_)
-- [ ] Skila undirbúningsgögnum og fá verkefnið samþykkt til fullvinnslu
+- [ ] Skila öllum undirbúningsgögnum og fá verkefnið samþykkt til fullvinnslu
 
 ## Skipurit - _Sitemap_
 
