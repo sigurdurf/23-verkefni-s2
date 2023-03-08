@@ -7,13 +7,16 @@ Dæmi um einfalt skipurit
   Forsíða (index) - Stutt lýsing á hvað á að vera á forsíðunni (Útfært í verkefni 7) 
     |_ Dagskrá sýningar 
        |_ Þáttaka í leik - stutt lýsing
-    |_ Vörulýsing (gerið ráð fyrir myndasýningu (Slideshow) sem verður útfærð í 6. verkefni)
+    |_ Vörulýsing - nákvæm sundurliðun (tafla)  
+       (gerið ráð fyrir myndasýningu (Slideshow) sem verður útfærð í 6. verkefni)
        |_ Pöntunarsíða - lýsið hvernig samskiptin eiga að vera (form)
-  |_ Staðsetning viðburðar ofl sem viðkemur sýningunni
-  |_ Um okkur - hafðu samband
+    |_ Staðsetning viðburðar ofl sem viðkemur sýningunni
+    |_ Um okkur - hafðu samband (form)
   
 ```
 > Athugið að skipulagið má vera öðruvísi, þetta er bara dæmi.
+
+### Verkefnaáætlun
 
 #### Forsíðan á að vera það sem kallað er skjásvetta (_splash screen_)
 
