@@ -16,5 +16,7 @@ Dæmi um einfalt skipurit
 
 #### Forsíðan á að vera það sem kallað er skjásvetta (_splash screen_)
 
-* Skjáskvetta getur verið viðbótarform af auglýsingu í öðrum miðlum og til að ná athygli notandans
-* Hvatning til að sjá frekari upplýsingar um vöruna sem þeir eru að selja.
+* Skjáskvetta getur verið viðbótarform af auglýsingu í öðrum miðlum og/eða til að ná athygli notandans
+* Hvatning til að sjá frekari upplýsingar um vöruna sem þeir eru að selja
+
+> Í verkefni 7 á að hanna og útfæra forsíðuna.   
