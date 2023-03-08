@@ -13,10 +13,6 @@ Sundurliðun verkþátta er nauðsynleg í allri vinnu til að fá yfirsýn og a
 - [ ] Skipurit (_site-map_)
 - [ ] Skissuvinna (_wire-frame_)
 
-Verkefni 2
-- [ ] Skipulag (_layout_), litir og leturgerð (_prototype_)
-- [ ] Skila öllum undirbúningsgögnum og fá verkefnið samþykkt til fullvinnslu
-
 ## Skipurit - _Sitemap_
 
 Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.
@@ -40,13 +36,6 @@ Dæmi um einfalt skipurit
 * [Stílbragð (_Style tyle_)](style-tyle/)
 
 ---
-
-#### Forsíðan (_landic page_)
-
-* Í verkefni 6 á að búa til myndasýningu.
-* Í verkefni 7 á að hanna og útfæra forsíðuna.   
-  * Forsíðan getur verið viðbótarform af auglýsingu í öðrum miðlum og/eða til að ná athygli notandans og hvatning til að sjá frekari upplýsingar um vöruna sem er í boði
-
 
 
 
