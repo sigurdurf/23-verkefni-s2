@@ -23,5 +23,5 @@
 1. verkefni. Nemendur setja upp vef með eigin vinnuramma (_framework_) sem er með sveigjanlegu dálkaskipulagi
 1. verkefni. Efnisyfirlit er sett í fellilista og spretti gluggi búinn til ofl.
 1. verkefni. Unnið er með SVG teikningar og leturtáknsafn búið til
-1. verkefni. Kvikun (_Animation_) bætt við til að lífga upp á vefinn 
-1. verkefni. Forsíðan er "poppuð upp" með frjálsri aðferð (_landing page_) í 7.verkefni
+1. verkefni. á að búa til myndasýningu. Kvikun (_Animation_) bætt við til að lífga upp á vefinn 
+1. verkefni. Forsíðan er "poppuð upp" með frjálsri aðferð (_landing page_) til að ná athygli notandans og hvatning til að sjá frekari upplýsingar um vöruna sem er í boði
