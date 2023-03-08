@@ -3,7 +3,17 @@
 1. Lýsið í stuttu máli hvaða vara er í boði 
 1. Hvað á að gera til að fá fólk til að kaupa vöruna
 
+# Verkáætlun
 
+Sundurliðun verkþátta er nauðsynleg í allri vinnu til að fá yfirsýn og aðhald í verkefnavinnuna.
+
+- [x] Finna efni til að vinna með
+- [ ] Skrifa texta
+- [ ] Myndvinnsla
+- [ ] Skipurit (_site-map_)
+- [ ] Skissuvinna (_wire-frame_)
+- [ ] Skipulag (_layout_), litir og leturgerð (_prototype_)
+- [ ] Skila undirbúningsgögnum og fá verkefnið samþykkt til fullvinnslu
 
 ## Skipurit - _Sitemap_
 
@@ -24,17 +34,20 @@ Dæmi um einfalt skipurit
 ```
 > Athugið að  þetta er bara dæmi, skipulagið má vera öðruvísi.
 
-### Verkefnaáætlun
+* [Tengirammi (_Wireframe_)](wireframe/)
+* [Stílbragð (_Style tyle_)](style-tyle/)
+
+---
 
 #### Forsíðan (_landic page_)
 
+* Í verkefni 6 á að búa til myndasýningu.
 * Í verkefni 7 á að hanna og útfæra forsíðuna.   
-* Forsíðan getur verið viðbótarform af auglýsingu í öðrum miðlum og/eða til að ná athygli notandans og hvatning til að sjá frekari upplýsingar um vöruna sem er í boði
-
-> Í verkefni 6 á að búa til myndasýningu.
+  * Forsíðan getur verið viðbótarform af auglýsingu í öðrum miðlum og/eða til að ná athygli notandans og hvatning til að sjá frekari upplýsingar um vöruna sem er í boði
 
 
-* [Tengirammi (_Wireframe_)](wireframe/)
-* [Stílbragð (_Style tyle_)](style-tyle/)
+
+
+
 
 
