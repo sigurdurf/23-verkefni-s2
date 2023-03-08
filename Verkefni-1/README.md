@@ -37,7 +37,7 @@ Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem
 ### Tæknileg útfærlsa
 
 1. Skipurit - _"SiteMap"_
-   * [Búið til skipurit](Námsefni-1/Sitemap.md)
+   * [Búið til skipurit](Námsefni-1/)
 1. Tengirit - _"WireFrame"_
    * [Búið til leiðakerfi](Námsefni-1/wireframe/README.md)
 1. Stílbragð - _Style tyle_
