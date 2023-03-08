@@ -9,15 +9,15 @@ Dæmi um einfalt skipurit
   |_ Pöntunarsíða - lýsið hvernig samskiptin eiga að vera (gerið ráð fyrir að hafa form)
   |_ Leikur sem á að vera í vefnum - stutt lýsing
   |_ Staðsetning viðburðar ofl sem viðkemur sýningunni
-  |_ Um okkur 
+  |_ Um okkur - hafðu samband
   
 ```
 > Athugið að skipulagið má vera öðruvísi, þetta er bara dæmi.
 
 #### Forsíðan á að vera það sem kallað er skjásvetta (_splash screen_)
 
-* Skjáskvetta getur verið viðbótarform af auglýsingu í öðrum miðlum og/eða til að ná athygli notandans
-* Hvatning til að sjá frekari upplýsingar um vöruna sem þeir eru að selja
+* Í verkefni 7 á að hanna og útfæra forsíðuna.   
+* Skjáskvetta getur verið viðbótarform af auglýsingu í öðrum miðlum og/eða til að ná athygli notandans og hvatning til að sjá frekari upplýsingar um vöruna sem er í boði
 
 > Í verkefni 6 á að búa til myndasýningu.
-> Í verkefni 7 á að hanna og útfæra forsíðuna.   
+
