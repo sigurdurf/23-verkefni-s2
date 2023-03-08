@@ -29,7 +29,7 @@ Dæmi um einfalt skipurit
 #### Forsíðan (_landic page_)
 
 * Í verkefni 7 á að hanna og útfæra forsíðuna.   
-* Skjáskvetta getur verið viðbótarform af auglýsingu í öðrum miðlum og/eða til að ná athygli notandans og hvatning til að sjá frekari upplýsingar um vöruna sem er í boði
+* Forsíðan getur verið viðbótarform af auglýsingu í öðrum miðlum og/eða til að ná athygli notandans og hvatning til að sjá frekari upplýsingar um vöruna sem er í boði
 
 > Í verkefni 6 á að búa til myndasýningu.
 
