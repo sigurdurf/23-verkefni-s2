@@ -1,15 +1,13 @@
 # Hugmyndavinna
 
-Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.
-
 1. Lýsið í stuttu máli hvaða vara er í boði 
-1. Forsíða - löndunarsíða (_Landing page_)
-1. Dagskrá og samskipti (_Contact_)
-1. Vörulýsing (_Features_)
-1. Almennar upplýsingar (_About Us_)
+1. Hvað á að gera til að fá fólk til að kaupa vöruna
+
 
 
 ## Skipurit - _Sitemap_
+
+Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.
 
 Dæmi um einfalt skipurit
 
@@ -24,7 +22,7 @@ Dæmi um einfalt skipurit
     |_ Um okkur - hafðu samband (form)
   
 ```
-> Athugið að skipulagið má vera öðruvísi, þetta er bara dæmi.
+> Athugið að  þetta er bara dæmi, skipulagið má vera öðruvísi.
 
 ### Verkefnaáætlun
 
