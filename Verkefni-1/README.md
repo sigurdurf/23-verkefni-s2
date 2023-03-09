@@ -8,12 +8,12 @@ Nemendur eiga að geta undirbúið og skipulagt gerð kynningarvefs
 
 Í 1. verkefni er ákveðið hvaða efni/þema á að nota sem undirstaða undir verkefnin sem unnin eru í áfanganum. Engin á að fjalla um sama fyrirtæki og nota nákvæmlega sömu lausnir. Verkefni áfangans tengjast saman og afrakstur þeirra á að vera frambærilegur vefur sem hægt er að birta á internetinu. 
 
-### Þema, _vörusýning_ 
+### Þema, _vörukynning_ 
 
 * Vara og/eða þjónusta sem kynnt er á ákveðnum degi 
-  * Það þarf að skrá sig á sýninguna
   * Það á að vera möguleiki á að panta vöru eða þjónustu
   * Það er happadrætti, spurningaleikur eða einhver leikur sem viðskiptavinir geta tekið þátt í
+  * Það þarf að skrá sig
 * Annað val _Þarf samþykki kennara_<sup>*</sup> 
 
 Kynningarvefurinn getur fjallað um vöru sem er á markaði eða þjónustu sem fyrirtækið þitt býður upp á. Fyrirtækið má vera starfandi á markaði en það getur líka verið skáldað. 
