@@ -7,6 +7,9 @@
 
 Það skiptir máli að hafa gott skipulag á vinnugögnum í vefhönnunn. Sérstaklega þegar um samvinnu er að ræða. Hér er dæmi um æskilegt skipulag
 
+* mappa með undirbúningsgögnum
+* mappa með vef
+
 ```
   Vinnugögn
     |_ Hugmyndavinna (Readme.md)
