@@ -3,7 +3,25 @@
 1. Lýsið í stuttu máli hvaða vara er í boði 
 1. Hvað á að gera til að fá fólk til að kaupa vöruna
 
-# Verkáætlun
+## Verkefnaskipulag
+
+Það skiptir máli að hafa gott skipulag á vinnugögnum í vefhönnunn. Sérstaklega þegar um samvinnu er að ræða. Hér er dæmi um æskilegt skipulag
+
+```
+  Vinnugögn
+    |_ Readme.md
+       Hugmyndavinna
+       |_ Lýsing á verkefnavali
+       |_ Heimildir og tenglar
+    |_ Texataskjöl
+    |_ Myndir
+    |_ Skipurit - Sitemap
+    |_ Leiðakerfi - Wireframe
+
+  
+```
+
+## Verkáætlun
 
 Sundurliðun verkþátta er nauðsynleg í allri vinnu til að fá yfirsýn og aðhald í verkefnavinnuna.
 
@@ -13,11 +31,13 @@ Sundurliðun verkþátta er nauðsynleg í allri vinnu til að fá yfirsýn og a
 - [ ] Skipurit (_site-map_)
 - [ ] Leiðakerfi (_wire-frame_)
 
+---
+
 ## Skipurit - _Sitemap_
 
 Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.
 
-Dæmi um einfalt skipurit
+Dæmi um einfalt skipurit vefs
 
 ```
   Forsíða (index) -> Stutt lýsing á hvað á að vera á forsíðunni (Útfært í verkefni 7) 
