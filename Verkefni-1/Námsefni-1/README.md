@@ -24,7 +24,6 @@
     |_ CSS (allar stílsíður í css möppu)
     |_ images (allar myndir í images möppunni)
 
-  
 ```
 
 ## Verkáætlun
