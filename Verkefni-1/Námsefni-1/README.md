@@ -3,7 +3,7 @@
 1. Lýsið í stuttu máli hvaða vara er í boði 
 1. Hvað á að gera til að fá fólk til að kaupa vöruna
 
-## Verkefnaskipulag
+## Skipulag vefþróunarsvæðis
 
 Það skiptir máli að hafa gott skipulag á vinnugögnum í vefhönnunn. Sérstaklega þegar um samvinnu er að ræða. Hér er dæmi um æskilegt skipulag
 
