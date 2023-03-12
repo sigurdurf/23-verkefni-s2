@@ -9,7 +9,7 @@
 
 ```
   Vinnugögn
-    |_ Hugmyndavinna
+    |_ Hugmyndavinna (Readme.md)
        |_ Lýsing á verkefnavali
        |_ Heimildir og tenglar
     |_ Texataskjöl
