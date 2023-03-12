@@ -9,14 +9,20 @@
 
 ```
   Vinnugögn
-    |_ Readme.md
-       Hugmyndavinna
+    |_ Hugmyndavinna
        |_ Lýsing á verkefnavali
        |_ Heimildir og tenglar
     |_ Texataskjöl
     |_ Myndir
     |_ Skipurit - Sitemap
     |_ Leiðakerfi - Wireframe
+    |_ Stílbragð - Style-tyle
+    |_ Frumhönnun - Prototype
+    
+  Website - (má vera heiti vöru eða fyrirtækis)
+    |_ index.html (ATH! allar html síður í rót)
+    |_ CSS (allar stílsíður í css möppu)
+    |_ images (allar myndir í images möppunni)
 
   
 ```
@@ -52,7 +58,7 @@ Dæmi um einfalt skipurit vefs
 ```
 > Athugið að  þetta er bara dæmi, skipulagið má vera öðruvísi.
 
-* [Tengirammi (_Wireframe_)](wireframe/)
+* [Leiðakerfi (_Wireframe_)](wireframe/)
 * [Stílbragð (_Style tyle_)](style-tyle/)
 
 ---
