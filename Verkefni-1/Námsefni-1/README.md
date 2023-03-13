@@ -49,12 +49,12 @@ Dæmi um einfalt skipurit vefs
 
 ```
   Forsíða (index) -> Stutt lýsing á hvað á að vera á forsíðunni (Útfært í verkefni 7) 
-    |_ Dagskrá sýningar 
+    |_ Dagskrá sýningar/leiks 
        |_ Þáttaka í leik -> stutt lýsing
+       |_ Staðsetning viðburðar ofl sem viðkemur sýningunni
     |_ Vörulýsing - nákvæm sundurliðun (tafla)  
        (gerið ráð fyrir myndasýningu (Slideshow) sem verður útfærð í 6. verkefni)
        |_ Pöntunarsíða - lýsið hvernig samskiptin eiga að vera (form)
-    |_ Staðsetning viðburðar ofl sem viðkemur sýningunni
     |_ Um okkur - hafðu samband (form)
   
 ```
