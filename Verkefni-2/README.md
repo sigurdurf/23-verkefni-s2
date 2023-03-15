@@ -41,18 +41,16 @@ Hæð skjalsins er lengri en skjástærðirnar enda gerum við ráð fyrir að n
 
 ### Námsmat 12%
 
-1. **Frumgerð - Prototype 30em**
-   * Forsíða
-   * Undirsíða (samskiptaform - tafla)
+1. **Frumgerð - Prototype 22,5em x 40em**
 1. **Frumgerð - Prototype 48em** 
-   * Forsíða
-   * Undirsíða (samskiptaform - tafla)
-1. **Frumgerð - Prototype 60em** 
-   * Forsíða
-   * Undirsíða (samskiptaform - tafla)
+1. **Frumgerð - Prototype 64em** 
 1. **Frumgerð - Prototype 100em** 
-   * Forsíða
-   * Undirsíða (samskiptaform - tafla)
+
+Hver stærð sýnir 
+   * Skipulag undirsíðna
+   * Undirsíða með samskiptaformi
+
+> Við gerum ráð fyrir að forsíðan verði með öðru sniði sem verður hannað í verkefni 7
 
 #### Bjargir
 
