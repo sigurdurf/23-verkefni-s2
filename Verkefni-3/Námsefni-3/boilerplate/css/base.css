@@ -19,9 +19,10 @@
   - Media Queries */
 
 /* Variables
+Skiptið út letri og litagildildum fyrir litina sem þið notið í frumhönnun ykkar (style tyle).
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 :root {
-  --body-font-family:'Roboto Slab', sans-serif;
+  --body-font-family:'Roboto Slab', sans-serif; /* ykkar leturval */
   --body-color-text: rgb(0, 25, 24);
   --body-bg-color: rgb(226, 248, 247);
   --body-padding: 0;
@@ -54,7 +55,56 @@
   --button-prime: rgb(255, 255, 255);
   --button-prime-bg: rgb(14, 97, 116);
   --button-prime-bg-hover: rgb(30, 174, 219);
-
+  --button-border: 1px solid rgb(187, 187, 187);
+  /* forms */
+  --form-bg: rgb(255, 255, 255);
+  --form-color: rgb(0, 0, 0);
+  --form-border: 1px solid rgb(187, 187, 187);
+  --form-border-focus: 1px solid rgb(0, 121, 135);
+  --form-border-error: 1px solid rgb(255, 0, 0);
+  --form-border-radius: 4px;
+  --form-placeholder-color: rgb(141, 141, 141);
+  --form-label-color: rgb(0, 121, 135);
+  --form-input-color-error: rgb(255, 0, 0);
+  --form-input-bg: rgb(255, 255, 255);  
+  --form-input-bg-error: rgb(255, 223, 223);
+  --form-input-bg-focus: rgb(255, 255, 255);
+  --form-input-bg-disabled: rgb(140, 140, 140);
+  --form-input-border: 1px solid rgb(187, 187, 187);
+  --form-input-border-error: 1px solid rgb(255, 0, 0);
+  --form-input-border-focus: 1px solid rgb(0, 121, 135);
+  --form-input-border-disabled: 1px solid rgb(131, 131, 131);
+  --form-input-border-radius: 4px;
+  --box-shadow: inset 2px 3px 5px rgb(192, 192, 192);
+  /* lists */
+  --list-style: none;
+  --list-style-position: inside;
+  --list-style-type: none;
+  /* code */
+  --code-bg: rgb(255, 255, 255);
+  --code-color: rgb(0, 0, 0);
+  --code-border: 1px solid rgb(187, 187, 187);
+  --code-border-radius: 4px;
+  /* tables */
+  --table-bg: rgb(255, 255, 255);
+  --table-color: rgb(0, 0, 0);
+  --table-border: 1px solid rgb(187, 187, 187);
+  --table-border-radius: 4px;
+  --table-odd-bg: rgb(202, 255, 248);
+  --td-border-bottom: 1px solid rgb(187, 187, 187);
+  --tfoot-bg: rgb(141, 255, 240);
+  /* images */
+  --image-border: 1px solid rgb(187, 187, 187);
+  --image-border-radius: 4px;
+  /* blockquotes */
+  --blockquote-bg: rgb(255, 255, 255);
+  --blockquote-color: rgb(0, 0, 0);
+  --blockquote-border: 1px solid rgb(187, 187, 187);
+  --blockquote-border-radius: 4px;
+  /* nav */
+  --nav-bg: rgb(0, 121, 135);
+  --nav-color: rgb(255, 255, 255);
+  --nav-bgcolor-hover: rgb(3, 173, 192); 
 }
 
 /* Base Styles
@@ -148,7 +198,7 @@ input[type="button"] {
   white-space: nowrap;
   background-color: transparent;
   border-radius: 4px;
-  border: 1px solid #bbb;
+  border: var(--button-border);
   cursor: pointer; }
 
 .button:hover,
@@ -162,7 +212,7 @@ input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
   color: var(--button-active);
-  border-color: #888;
+  border: var(--form-border);
   outline: 0; }
 
 .button.button-primary,
@@ -203,12 +253,12 @@ textarea,
 select {
   height: 2.4em;
   padding: .4em .8em; /* The 6px vertically centers text on FF, ignored by Webkit */
-  background-color: #fff;
-  border: 1px solid #D1D1D1;
+  background-color: var(--select-bg-color);
+  border: 1px solid var(--select-border);
   border-radius: 4px;
-  box-shadow: inset 2px 3px 5px rgb(192, 192, 192);}
+  box-shadow: (--box-shadow);}
 
-/* Removes awkward default styles on some inputs for iOS */
+/* Removes awkward default styles on some inputs for iOS ?*/
 input[type="email"],
 input[type="number"],
 input[type="search"],
@@ -239,7 +289,6 @@ select:focus {
 
 /*label,*/
 legend {
-  display: block;
   margin-bottom: .5em;
   font-weight: 600; }
 
@@ -251,12 +300,6 @@ input[type="checkbox"],
 input[type="radio"] {
   display: inline; 
 }
-
-label > .label-body {
-  display: inline-block;
-  margin-left: .5em;
-  font-weight: normal; }
-
 
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -275,7 +318,6 @@ ol ul {
 }
 /*li {
   margin-bottom: .5em; }*/
-
 
 /* Code
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -298,15 +340,20 @@ pre > code {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 table {
   border-collapse: collapse;
+  background-color: var(--table-bg);
+  color: var(--table-color);
+  width: 100%;
+  margin: 0 0 2em 0;
+  border-radius: var(--table-border-radius);
 }
 th,
 td {
   padding: .8em;
   text-align: left;
-  border-bottom: 1px solid #c4c3c3; }
+  border-bottom: var(--td-border-bottom); }
 
 tbody tr:nth-child(odd) {
-    background-color: #d4fdfd;
+    background-color: var(--table-odd-bg);
   }
 caption {
   font-size: 1.2em;
@@ -314,7 +361,7 @@ caption {
   background-color: var(--footer-bg);
 }
 tfoot {
-  background-color: #d4fdfd;
+  background-color: var(--tfoot-bg);
 }
 /* 
 th:first-child,
