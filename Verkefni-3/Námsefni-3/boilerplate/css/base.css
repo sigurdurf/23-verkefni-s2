@@ -38,12 +38,12 @@ Skiptið út letri og litagildildum fyrir litina sem þið notið í frumhönnun
   --h2-color: rgb(0, 91, 101);
   --h3-color: rgb(0, 91, 101);
   --h4-color: rgb(0, 50, 56);
-  --a-color: rgb(6, 89, 102);
   /* navigation */
   --nav-bg: rgb(0, 121, 135);
   --nav-color: rgb(255, 255, 255);
   --nav-bgcolor-hover: rgb(3, 173, 192);
   /* links */
+  --a-color: rgb(6, 89, 102);
   --a-visited:rgb(13, 172, 196);
   --a-active:rgb(13, 172, 196);
   /* footer */
@@ -233,7 +233,6 @@ input[type="button"].button-primary:focus {
   color: var(--button);
   background-color: var(--button-prime-bg-hover);
   border-color: var(--button-prime-bg-hover); }
-
 
 /* Forms
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
