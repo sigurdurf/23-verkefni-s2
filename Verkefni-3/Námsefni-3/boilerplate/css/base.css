@@ -22,9 +22,9 @@
 Skiptið út letri og litagildildum fyrir litina sem þið notið í frumhönnun ykkar (style tyle).
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 :root {
-  --body-font-family:'Roboto Slab', sans-serif; /* ykkar leturval */
+  --body-font-family:'Roboto', sans-serif; /* ykkar leturval */
   --body-color-text: rgb(0, 25, 24);
-  --body-bg-color: rgb(226, 248, 247);
+  --body-bg-color: rgb(150, 220, 98);
   --body-padding: 0;
   --body-margin:0;
   --body-font-size: 1.1em;
@@ -66,7 +66,7 @@ Skiptið út letri og litagildildum fyrir litina sem þið notið í frumhönnun
   --form-placeholder-color: rgb(141, 141, 141);
   --form-label-color: rgb(0, 121, 135);
   --form-input-color-error: rgb(255, 0, 0);
-  --form-input-bg: rgb(255, 255, 255);  
+  --form-input-bg: rgb(255, 100, 20);  
   --form-input-bg-error: rgb(255, 223, 223);
   --form-input-bg-focus: rgb(255, 255, 255);
   --form-input-bg-disabled: rgb(140, 140, 140);
@@ -177,6 +177,7 @@ a:active {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button,
 button,
+
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
@@ -269,7 +270,10 @@ textarea {
   padding-top: 6px;
   padding-bottom: 6px; 
 }
-
+input[type="text"], textarea {
+    border: 1px solid red;
+    background-color: var(--form-input-bg);
+}
 input[type="email"]:focus,
 input[type="number"]:focus,
 input[type="search"]:focus,
